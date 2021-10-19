@@ -1,0 +1,15 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "module password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Boris Shcherbina",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
