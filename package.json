@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopo9/password-generator.git"
+  },
   "author": "Boris Shcherbina",
   "license": "MIT",
   "dependencies": {},
