@@ -1,5 +1,5 @@
 {
-  "name": "password-generator",
+  "name": "password-generators",
   "version": "1.0.0",
   "description": "module password generator",
   "main": "index.js",
