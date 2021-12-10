@@ -11,9 +11,9 @@ ___
 const Generator = require('password-generators');
 //Calling the static method customPassword will generate a random password for us
 /**
- * @param length
- * @param hasNumbers
- * @param hasSpecial
+ * @param length: number
+ * @param hasNumbers: bool
+ * @param hasSpecial: bool
  * @returns {string}
  */
 const password = Generator.customPassword(length, hasNumbers, hasSpecialChars)
