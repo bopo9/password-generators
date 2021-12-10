@@ -2,7 +2,7 @@
 
 Alpha version 0.0.1
 
-###`npm i https://github.com/bopo9/password-generators`
+`npm i https://github.com/bopo9/password-generators`
 
 ___
 *Code examples:*
